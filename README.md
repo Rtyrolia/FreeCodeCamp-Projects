@@ -1,11 +1,11 @@
 # FreeCodeCamp-Projects
 
-Responsive Web Design Projects 
- Tribute Page
- Survey Form
- Product Landing Page
- Technical Documentation Page
- Personal Portfolio Page
+Responsive Web Design Projects  
+ Tribute Page 
+ Survey Form 
+ Product Landing Page 
+ Technical Documentation Page 
+ Personal Portfolio Page 
  
 JavaScript Algorithms & Data Structures Projects
  Palindrome Checker
